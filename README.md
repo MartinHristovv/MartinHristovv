@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MartinHristovv
+- 👀 I’m interested in Informatics and Coding
+- 🌱 I’m currently learning to create large scaleable apps
+- 💞️ I’m looking to collaborate on everything as long as it is seems interesting.
+- 📫 How to reach me: Send me an email on martinhrist7@gmail.com
